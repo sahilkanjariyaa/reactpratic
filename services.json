@@ -1,0 +1,6 @@
+[
+    { "id": 1, "service_name": "Child Helpline", "category": "Kids Safety", "contact": "1098" },
+    { "id": 2, "service_name": "Women Helpline", "category": "Women Safety", "contact": "1091" },
+    { "id": 3, "service_name": "Senior Support", "category": "Elder Care", "contact": "1800-112233" }
+  ]
+  
